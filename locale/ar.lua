@@ -5,9 +5,9 @@ local Translations = {
         missing_args = '(x, y, z) لم يتم ادخل جميع المعلومات',
         missing_args2 = 'يجب ملأ جميع الحقول اللازمة',
         no_access = 'لا يمكن الوصول إلى هذا الأمر',
-        company_too_poor = 'مسؤول الوظيفة لا يمكلك مال كاف-ي',
+        company_too_poor = 'الشركة لا تملك مال كاف-ي',
         item_not_exist = 'عنصر غير موجود',
-        too_heavy = 'لا يوجد مساحة في جقيبتك'
+        too_heavy = 'لا يوجد مساحة في حقيبتك'
     },
     success = {},
     info = {
